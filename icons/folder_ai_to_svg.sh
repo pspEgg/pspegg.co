@@ -1,1 +1,0 @@
-osascript svg.scpt `ls | egrep ".ai"`
