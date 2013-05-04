@@ -1,8 +1,6 @@
 ---
 layout: 'default'
-title: 'hey guys'
+title: 'pspEgg'
 ---
 
-## Whatcha Gonna Do with that duck?
-
-![image](/hello.jpg)
+## Hello World!

@@ -1,28 +1,8 @@
-# PSPEGG #
+# Kombucha #
 
-# Playground #
+Editors are super heroes. They absorb 95% of directors' crap, carefully leaving only the dull colors intact so that the colorist with the Ferrari can work with the most *dynamic range*. 
 
-# Fanshop #
-
-# Kombucha.io #
-
-## a gift for your editor ##
-
-![Director Beautiful Set][]
-
-![Editor Lackluster Raw][]
-
-![Colorist Hardcore Vimeo][]
-
-The director demands the set to be changed
-
-The colorist transforms the look and feel at will.
-
-Only the editor is assumed to *look beyond* the dull, the inconsistency, the *fix-it-in-posts* and only use the *cut* tool. That's not to mention the editor looks at 5-10 times the footage the colorist does!
-
-
-
-
+If you got sick of channeling super powers, read on and join the  alliance. If not, colorists thank you!
 
 ### Neutralization ###
 
