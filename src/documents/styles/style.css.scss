@@ -1,8 +1,21 @@
 /* Your styles go here */
 
 body{
-    font-family: avenir;
+    font-family: georgia;
     font-size:24px;
     width:480px;
     margin:1em auto;
+}
+
+h1,h2{
+    font-family: avenir;
+}
+
+svg{
+    border:2px solid black;
+    
+}
+#bottle{
+    border:2px solid #bada55;
+    height:100px;
 }
