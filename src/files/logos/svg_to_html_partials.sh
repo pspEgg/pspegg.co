@@ -1,1 +1,0 @@
-cat icon_nut.svg | grep
