@@ -1,8 +1,3 @@
----
-layout: 'default'
-title: 'Kombucha'
-isPage: true
----
 
 # Kombucha #
 
