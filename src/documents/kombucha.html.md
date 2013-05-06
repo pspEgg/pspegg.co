@@ -4,22 +4,17 @@ title: 'Kombucha'
 isPage: true
 ---
 
-# Kombucha I/O #
+# Kombucha #
 
-Editors are super heroes. They absorb 95% of directors' crap, carefully leaving only the dull colors intact so that the colorist with the Ferrari can work with the most *dynamic range*. 
+Editors are superheroes. They absorb 95% of directors' crap and look beyond the dull colors to create vivid sequences of stories. Colorists *then* come in and *tells the same stories with color.* 
 
+Employing cutting edge cloud robots, **Kombucha** makes it possible to color correct entire repositories of footage before the editing process.
 
-If you got sick of channeling super powers, you're at the right place. If not, well, go back to editing.
+**Kombucha** has passed my own project testings phase and is now looking for private testers. Starting a Kombucha is easy:
 
-## Spelunking ##
+1. Download BitTorrent Sync.
+2. Sync folders containing fresh-from-camera materials to a Kombucha server.
+3. Kombucha servers can read Final Cut Pro X project metadatas, so if use that sync the events and project folders
+4. If you use proxy media instead, just upload them along side, no data will go unused. but do remember to *also* sync the originals, and keep it syncing at night.
 
-Kombucha is a destructive colour grading I/O service. torrent your gray footage to the cloud and get back spoiled footage. Why would you want to do that? Well that's how Kombuchas are made. Also Walter Murch suggests spelunking before looking at footage. It's a win-win.
-
-## Brew Alchemy
-
-
-
-## Starter Culture ##
-
-Getting started is easy! If you are given an invite, just
-
+Let's make Kombucha!

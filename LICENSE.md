@@ -1,1 +1,1 @@
-Creative Commons
+**Creative Commons Attribution**
